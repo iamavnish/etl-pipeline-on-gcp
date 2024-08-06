@@ -7,3 +7,7 @@ This is Proof of Concept for building an ETL Pipeline on GCP using Cloud Storage
 ## Use Case
 
 Analyze TLC (Taxi and Limousine Commission) Trip Record Data
+
+## PoC Complexity Level
+
+Complex
