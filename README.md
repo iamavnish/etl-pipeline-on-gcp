@@ -1,6 +1,5 @@
 # ETL Pipeline on GCP
-Analyzing Uber Data using Mage, BigQuery and Looker
 
 ## Overview 
 
-This is Proof of Concept for building a data pipeline using Mage, BigQuery and Looker. 
+This is Proof of Concept for building an ETL Pipeline on GCP using Cloud Storage, Mage hosted on Compute Engine, BigQuery and Looker. 
