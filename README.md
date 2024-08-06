@@ -1,4 +1,4 @@
-# uber-data-analytics
+# ETL Pipeline on GCP
 Analyzing Uber Data using Mage, BigQuery and Looker
 
 ## Overview 
