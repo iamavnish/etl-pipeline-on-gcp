@@ -29,3 +29,10 @@ Complex
 ## Dataset
 
 Yellow and Green Taxi Trip Records for NewYork City (https://github.com/iamavnish/etl-pipeline-on-gcp/blob/main/dataset.csv)
+
+## Data Model
+
+![Data Model](https://github.com/user-attachments/assets/57621aeb-fde8-4632-a786-38c0c73c5db3)
+
+
+
